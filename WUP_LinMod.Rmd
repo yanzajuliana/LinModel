@@ -1,6 +1,6 @@
 ---
 title: "Linear Model with Prediction"
-author: "Dr. J"
+author: "Yanza Martinez"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -13,7 +13,7 @@ The assignment is based on estimation of 3 models:
 3  mpg as a function of both cyl and disp
 
 Complete a linear model with data description, a model fit a, and a prediction of mpg based on weigth of 3.050 lbs, with a displacement of 122 cubic inches (this is 2.5 L).
-
+    
 use an anova to compare model 2 with model 3
 
 ```{r setup, include=FALSE}
